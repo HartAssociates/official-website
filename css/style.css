@@ -1030,7 +1030,8 @@ span{
 .main-slider .text{
   position: relative;
   display: block;
-  font-size: 16px;
+  font-size: 19px;
+  font-weight: bold;
   font-family: 'Open Sans',sans-serif;
   line-height: 26px;
   color: #fff;
