@@ -1804,11 +1804,11 @@ span{
 
 .main-footer{
   position: relative;
-  background: #71acd9;
+  background: #547ab3;
   width: 100%;
   padding-top: 100px;
   padding-bottom: 90px;
-  border-bottom: 1px solid #3a4661;
+  border-bottom: 1px solid #547ab3;
 }
 .main-footer p{
   color: white;
@@ -1927,7 +1927,7 @@ span{
 .footer-bottom{
   position: relative;
   padding: 18px 0px 21px 0px;
-  background: #71acd9;
+  background: #547ab3;
   width: 100%;
 }
 .footer-bottom p{
