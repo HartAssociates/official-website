@@ -2248,7 +2248,7 @@ span{
   margin-bottom: 0px;
   margin-top: -24px;
   transition: all 900ms ease;
-  opacity: 0;
+  opacity: 1;
 }
 .team-page .single-item:hover .lower-content .team-social{
   opacity: 1;
